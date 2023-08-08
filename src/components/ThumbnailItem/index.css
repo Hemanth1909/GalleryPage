@@ -1,0 +1,10 @@
+/* Write your code here. */
+
+.thumbnail-image {
+  margin-right: 15px;
+  opacity: 0.5;
+}
+
+.active-image {
+  margin-right: 15px;
+}
